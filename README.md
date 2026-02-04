@@ -1,4 +1,5 @@
-# 👋 hello Nepali ma kapal,English ma hair...
+# 👋 hello 👋
+# Nepali ma kapal , English ma hair...
 # are you fine my dear ❤️ !! 
 I'm [Rishav Khadka]
 
