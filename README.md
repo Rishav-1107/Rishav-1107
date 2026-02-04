@@ -1,7 +1,7 @@
-# 👋 hello 👋
+# 👋 hello 👋 the name is rishav..
 # Nepali ma kapal , English ma hair...
 # are you fine my dear ❤️ !! 
-I'm [Rishav Khadka]
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
